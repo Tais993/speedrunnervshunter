@@ -1,0 +1,14 @@
+name: SpeedrunnerVSHunter
+version: ${project.version}
+main: tijsbeek.nl.speedrunnervshunter.SpeedrunnerVSHunter
+api-version: 1.16
+authors: [ Tijsdieman ]
+description: The speedrunner vs Hunter plugin of Dream's video's
+website: tijsbeek.nl
+commands:
+  sethunter:
+    description: Set one of the hunters
+    usage: /<command>
+  setspeedrunner:
+    description: Set the speedrunner
+    usage: /<command>
